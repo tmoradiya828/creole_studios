@@ -9,5 +9,4 @@ Database file "creole_studios_wp.sql"
 
 
 test user login
-trainer1
-login12*
+trainer1 / login12*
